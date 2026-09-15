@@ -13,7 +13,5 @@ El contenido está dividido según los módulos oficiales del curso:
 *   **Sistemes de Big Data**
 *   **Projecte**
 
-## Tecnologías Utilizadas
-
 ## Autor
 *   **David Gutiérrez Navío** - [@dgutierreznav](https://github.com)
