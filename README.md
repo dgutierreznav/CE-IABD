@@ -14,5 +14,4 @@ El contenido está dividido según los módulos oficiales del curso:
 *   **Projecte**
 
 ## Autor
-*   **David Gutiérrez Navío** - [@dgutierreznav](https://github.com)
-*   **Web** - [www.davidgutierrez.es](https://davidgutierrez.es/)
+*   **David Gutiérrez Navío** - [www.davidgutierrez.es](https://davidgutierrez.es/)
