@@ -1,1 +1,1 @@
-#Models d'Intel·ligència Artificial
+# Models d'Intel·ligència Artificial
