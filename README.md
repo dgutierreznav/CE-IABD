@@ -2,7 +2,7 @@
 
 En este espacio comparto de forma organizada los proyectos, apuntes, prácticas y módulos que voy desarrollando a lo largo del curso.
 
-## 📁 Estructura del Repositorio
+## Estructura del Repositorio
 
 El contenido está dividido según los módulos oficiales del curso:
 
@@ -13,7 +13,7 @@ El contenido está dividido según los módulos oficiales del curso:
 *   **Sistemes de Big Data**
 *   **Projecte**
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
-## 👤 Autor
+## Autor
 *   **David Gutiérrez Navío** - [@dgutierreznav](https://github.com)
